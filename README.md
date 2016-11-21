@@ -28,8 +28,10 @@ A collaborative and curated list of great resources about learning WordPress arc
 
 ### Themes
 * [themecheck.org](http://themecheck.org/) Verify your WordPress themes
+* [ItalyStrap Theme Framework](http://www.italystrap.it/)
 
 ### Plugins
+* [ItalyStrap Extended Plugin](https://wordpress.org/plugins/italystrap/)
 
 ### Frameworks
 
@@ -55,6 +57,7 @@ A collaborative and curated list of great resources about learning WordPress arc
 * [Abilitare la compressione gzip o deflate su WordPress con htaccess o W3TC](http://www.overclokk.net/abilitare-la-compressione-gzip-deflate-wordpress-htaccess.html)
 * [Come caricare jQuery in modo asincrono su WordPress ](http://seoblog.giorgiotave.it/caricare-jquery-asincrono-wordpress/3963)
 * [Web Performance Optimization Category on SEO Blog](http://seoblog.giorgiotave.it/category/web-performance-optimization)
+* [Olegs Belousovs Web Performance Category](https://olegs.be/category/web-performance/)
 
 ## WebSite
 * [10up Best Practices](https://10up.github.io/Engineering-Best-Practices/) Best Practices for standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
