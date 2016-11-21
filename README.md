@@ -1,6 +1,7 @@
 # Awesome WordPress Development Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collaborative and curated list of great resources about learning WordPress architecture, development, OOP, test, and performance. Feel free to contribute to this on-going list.
 
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
