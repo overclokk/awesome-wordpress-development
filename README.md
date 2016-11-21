@@ -1,25 +1,32 @@
 # Awesome WordPress Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collaborative and curated list of great resources about WordPress architecture, development, OOP, test, and performance. Feel free to contribute to this on-going list.
+A collaborative and curated list of great resources about learning WordPress architecture, development, OOP, test, and performance. Feel free to contribute to this on-going list.
 
 
 ## Tools
-
 * [WPGear.org](http://wpgear.org/) WPGear.org is a compendium of useful developer tools for working with WordPress.
+
+### Themes
 * [themecheck.org](http://themecheck.org/) Verify your WordPress themes
 
+### Plugins
+
+### Testing
+* * [wp-browser](https://github.com/lucatume/wp-browser) A WordPress specific set of extensions for Codeception.
+
 ## Front-End
+* [Come usare jQuery con WordPress correttamente](http://www.overclokk.net/come-usare-jquery-wordpress-correttamente.html) :it: by @overclokk
 
 ## Back-End
 
-### Caching
+## Caching
 
 * [vip.wordpress.com/documentation/caching](https://vip.wordpress.com/documentation/caching/) Site speed is essential to a great web experience. WordPress.com employs multiple levels of caching automatically.
+
+## Security
 
 ## Frameworks
 
 ## Testing
-
-* [wp-browser](https://github.com/lucatume/wp-browser) A WordPress specific set of extensions for Codeception.
 
 ## Performance
 
