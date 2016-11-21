@@ -21,7 +21,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Make shure the PHP version in the resource (if present) is minimum 5.3.
+- Make shure the PHP version in the resource (if present) is at least 5.3.
 - Make shure the resource is well documented and well written (no posts with less than 500 words).
 - Make shure the resource follows the best practice of programming.
 - Make shure the resource has code example (if possible).
@@ -29,7 +29,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Enter a meaningful pull request description.
 - Make an individual pull request for each suggestion.
 - Put a link to each resource in your pull request ticket so it's easier to review.
-- Use the following format: `[Title](link) - Description` (For foreing lang use `:flag:`).
+- Use the following format: `[Title](link) - Description` (For foreing languages use `:flag:`).
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Please keep descriptions short, simple and unbiased. No buzzwords or marketing jargon. 
