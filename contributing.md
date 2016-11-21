@@ -21,7 +21,10 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Software that is PHP 5.3 >= (Required), Composer-installable, PSR compliant, semantically versioned, united tested and well documented in English is preferred.
+- Make shure the PHP version in the resource (if present) is minimum 5.3.
+- Make shure the resource is well documented and well written (no posts with less than 500 words).
+- Make shure the resource follows the best practice of programming.
+- Make shure the resource has code example (if possible).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Enter a meaningful pull request description.
 - Make an individual pull request for each suggestion.
