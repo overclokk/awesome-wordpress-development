@@ -21,6 +21,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the following guidelines:
 
+- Make shure the resource is WordPress related or WordPress friendly.
 - Make shure the PHP version in the resource (if present) is at least 5.3.
 - Make shure the resource is well documented and well written (no posts with less than 500 words).
 - Make shure the resource follows the best practice of programming.
