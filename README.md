@@ -31,7 +31,7 @@ the profession of web development and programming
 
 ## Slack channel
 
-* [WP Developers Club Slack](https://wpdevelopersclub.slack.com/messages) :en:
+* [WP Developers Club Slack](https://wpdevelopersclub.slack.com/messages) :gb:
 * [Italy WP Slack](https://italia-wp-community.slack.com/messages/dev) :it:
 
 ## Other Awesome WordPress related or similar Lists
