@@ -56,7 +56,7 @@ A collaborative and curated list of great resources about learning WordPress arc
 ## Performance
 * [Abilitare la compressione gzip o deflate su WordPress con htaccess o W3TC](http://www.overclokk.net/abilitare-la-compressione-gzip-deflate-wordpress-htaccess.html) :it:
 * [Come caricare jQuery in modo asincrono su WordPress ](http://seoblog.giorgiotave.it/caricare-jquery-asincrono-wordpress/3963) :it:
-* [Web Performance Optimization Category on SEO Blog](http://seoblog.giorgiotave.it/category/web-performance-optimization) :it :
+* [Web Performance Optimization Category on SEO Blog](http://seoblog.giorgiotave.it/category/web-performance-optimization) :it:
 * [Olegs Belousovs Web Performance Category](https://olegs.be/category/web-performance/) :it:
 
 ## WebSite
