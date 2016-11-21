@@ -4,9 +4,16 @@ A collaborative and curated list of great resources about WordPress architecture
 
 ## Tools
 
+* [WPGear.org](http://wpgear.org/) WPGear.org is a compendium of useful developer tools for working with WordPress.
+* [themecheck.org](http://themecheck.org/) Verify your WordPress themes
+
 ## Front-End
 
 ## Back-End
+
+### Caching
+
+* [vip.wordpress.com/documentation/caching](https://vip.wordpress.com/documentation/caching/) Site speed is essential to a great web experience. WordPress.com employs multiple levels of caching automatically.
 
 ## Frameworks
 
@@ -18,3 +25,8 @@ A collaborative and curated list of great resources about WordPress architecture
 
 ## WebSite
 
+* [10up Best Practices](https://10up.github.io/Engineering-Best-Practices/) Best Practices for standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
+* [KnowTheCode](https://knowthecode.io/) Helping professional WordPress developers master
+the profession of web development and programming
+
+## Slack channel
