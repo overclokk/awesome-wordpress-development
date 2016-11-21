@@ -12,6 +12,9 @@ A collaborative and curated list of great resources about WordPress architecture
 
 ## Testing
 
-* [wp-browser](https://github.com/lucatume/wp-browser)
+* [wp-browser](https://github.com/lucatume/wp-browser) A WordPress specific set of extensions for Codeception.
 
 ## Performance
+
+## WebSite
+
