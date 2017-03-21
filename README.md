@@ -43,6 +43,7 @@ A collaborative and curated list of great resources about learning WordPress arc
 * [Cambiare tema a WordPress – best practice per fare le cose per bene](http://www.overclokk.net/cambiare-tema-wordpress-best-practice.html) :it:
 
 ## Back-End
+* [Best way to initiate a class in a WP plugin?](http://wordpress.stackexchange.com/questions/70055/best-way-to-initiate-a-class-in-a-wp-plugin) :en:
 
 ## Caching
 * [vip.wordpress.com/documentation/caching](https://vip.wordpress.com/documentation/caching/) Site speed is essential to a great web experience. WordPress.com employs multiple levels of caching automatically.
